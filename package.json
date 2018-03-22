@@ -1,0 +1,14 @@
+{
+  "name": "hipster-bar",
+  "version": "0.0.2",
+  "description": "A status bar written in electron",
+  "main": "main.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "author": "Axel Matstoms",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^1.8.4"
+  }
+}
